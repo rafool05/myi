@@ -21,7 +21,7 @@ Plum Purple: #8E4585 */
 .title-section{
     position: relative;
     overflow: hidden;
-    height: 37.5rem;
+    height: 45rem;
 }
 .navbar-brand{
     cursor: pointer;
@@ -90,7 +90,7 @@ Plum Purple: #8E4585 */
 #gifts-section{
     background-color:#5C2E7E;
     position: relative;
-    height: 56.25rem;
+    height: 65rem;
 }
 #us-section{
     background-color: #AFB4FF;
